@@ -27,8 +27,8 @@ app.get("/notes", (req, res) => {
 });
 
 /* instantiate listener */
-app.listen(PORT, () =>
-  console.log(`Note Taker server listening at http://localhost:${PORT}`)
+app.listen(port, () =>
+  console.log(`Note Taker server listening at http://localhost:${port}`)
 );
 
 /* load notes from db.json */
