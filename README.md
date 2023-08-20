@@ -1,4 +1,4 @@
-# E-Commerce Back End • ORM
+# Note Taker Application • Express.js
 
 ## Table of Contents
 
@@ -12,6 +12,8 @@
 ## Description
 
 The Note Taker application allows a user to write and save notes using an Express.js back end, retrieving note data from a JSON file. The user can organize their thoughts and delete tasks as they complete them.
+
+The deployed application can be viewed [here.](https://ancient-sierra-05873-0270739bbb20.herokuapp.com/)
 
 ## Installation and Usage
 
